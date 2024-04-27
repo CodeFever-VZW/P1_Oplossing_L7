@@ -1,4 +1,4 @@
-geheime_boodschap = (5, 0, 17, 19, 18, 26, 0, 17, 4, 26, 2, 14, 12, 8, 13, 6, 27)
+geheime_boodschap = (19, 8, 9, 3, 26, 21, 14, 14, 17, 26, 3, 8, 2, 19, 8, 14, 13, 0, 17, 8, 4, 18, 27)
 alfabet = ('A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z', ' ', '!', '.', '?')
 
 # Ontcijfer de geheime boodschap en print het volledige bericht
